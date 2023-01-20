@@ -5,10 +5,10 @@
 - 👯 Contate-me pelo email washpdms@gmail.com.
 
 <a href="https://github.com/WashMarvin">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=washMarvin&show_icons=true&theme=radical&include_all_commits=true&count_private=true&repo=github-readme-stats" />
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=washMarvin&show_icons=true&theme=radical&include_all_commits=true&count_private=true&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=washMarvin&layout=compact&langs_count=16&theme=radical&repo=convoychat" />
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=washMarvin&layout=compact&langs_count=16&theme=radical&repo=convoychat" />
 </a>
 
 
