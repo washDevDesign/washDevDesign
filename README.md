@@ -1,7 +1,7 @@
 ### Olá, sou Washington Queiroz 👋
 #### Sou formado em Desenho Industrial e estou fazendo transição de carreira para a área de tecnologia.
 - 🔭 Estou tentando me especializar em front-end;
-- 🌱 Estudando angular, typescript e diversas outras tecnologias;
+- 🌱 Estudando Java, Angular e diversas outras tecnologias;
 - 👯 Contate-me pelo email washpdms@gmail.com.
 
 <a href="https://github.com/WashMarvin">
